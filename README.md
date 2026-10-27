@@ -12,7 +12,7 @@ An end-to-end data analytics project examining quick-commerce fulfilment operati
 
 ## Project Overview & Key Findings
 
-- **Order Volume & Fleet Throughput:** Evaluated 5,000 transactional orders across 2,500 unique customers. The fleet maintains a baseline average delivery turnaround time of **19.43 minutes** against an average promised SLA of ~15–18 minutes.
+- **Order Volume & Fleet Throughput:** Evaluated 5,000 transactional orders across 2,172 unique customers. The fleet maintains a baseline average delivery turnaround time of **19.43 minutes** against an average promised SLA of ~15–18 minutes.
 - **SLA Compliance Profile:** Overall baseline on-time fulfillment stands at **69.4%** (3,470 orders), with **20.7% slightly delayed** (1,037 orders) and **9.9% significantly delayed** (493 orders).
 - **Geographic Bottlenecks:** Delays cluster heavily in specific regional hubs. The top three operational choke points by volume of delayed orders are **Orai (33 delayed orders)**, **Deoghar (27)**, and **Gandhinagar (25)**.
 - **Hourly Dispatch Surges vs. Delays:** Peak incoming order demand spikes at 8:00 AM (240 orders) and 1:00 PM (239 orders). However, operational delay volumes peak severely during the mid-day 1:00 PM lunch window (88 delayed deliveries), identifying a recurring shift-change and fleet capacity bottleneck.
